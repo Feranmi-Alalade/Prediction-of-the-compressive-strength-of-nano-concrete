@@ -11,3 +11,5 @@ this research paper explained the need for Portland cement to be replaced with c
 The effect of nano silica and micro silica on the early-age compressive strength of concrete was thoroughly evaluated and compared. 
 It was concluded that the partial replacement of cement with nanoparticles significantly increased the compressive strength of concrete, 
 and hence, nano cement should be embraced.
+
+Links to the prediction site: https://concrete-strength-predict.netlify.app/
